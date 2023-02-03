@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241695173872",
+    "firebase_url": "https://peersupport-35c4f-default-rtdb.firebaseio.com",
+    "project_id": "peersupport-35c4f",
+    "storage_bucket": "peersupport-35c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241695173872:android:730ddd8f60a6b257e32635",
+        "android_client_info": {
+          "package_name": "edu.gatech.seclass.peersupport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241695173872-fj3uruqts4nq5gb2a50iqjq6n0pnomim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtW0Q2IGFhEPvdISp8kKtIbOOyjH1cjLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241695173872-fj3uruqts4nq5gb2a50iqjq6n0pnomim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

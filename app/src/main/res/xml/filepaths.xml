@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <paths>
+        <files-path path="images/" name="myimages" />
+        <files-path path="/data/user/0/edu.gatech.seclass.peersupport/files/images" name="my_images" />
+    </paths>
+</PreferenceScreen>
